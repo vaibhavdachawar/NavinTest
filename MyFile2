@@ -5,3 +5,7 @@ vim command is used to enter the conent into file
 ls command is used to check the all files 
 cat command is used to check the content of the file 
 
+Doing the new Changes into File 
+We need to undersand the difference between the Pull and Clone 
+Clone will create directory into local Machine 
+However pull is used when we have repository already available however, changes made into Central repository should reflect into Master branch should reflect here 
